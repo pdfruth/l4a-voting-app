@@ -88,12 +88,12 @@ body{
   text-transform: uppercase;
 }
 
-#choice .choice.optionB{
+#choice .choice.OptionB{
   color: #00cbca;
   float: right;
 }
 
-#choice .choice.optionA{
+#choice .choice.OptionA{
   color: #2196f3;
   float: left;
 }
