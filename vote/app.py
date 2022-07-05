@@ -6,8 +6,8 @@ import socket
 import random
 import json
 
-option_a = os.getenv('OPTION_A', "Moderna")
-option_b = os.getenv('OPTION_B', "Pfizer")
+option_a = os.getenv('OPTION_A', "Python")
+option_b = os.getenv('OPTION_B', "Nodejs")
 hostname = socket.gethostname()
 proc = platform.processor()
 
